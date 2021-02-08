@@ -1,0 +1,41 @@
+.white {
+    font-family: 'Nerko One', cursive;
+    color: #FFFFFF;
+}
+
+body {
+    background-color: blue;
+}
+
+h1 {
+    background-color: red;
+    color: blue;
+    font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+    background-color: red;
+    color: blue;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+h3 {
+    background-color: red;
+    color: blue;
+}
+
+.lime {
+    font-family: 'Lobster', cursive;
+    color: #00FF00;
+}
+
+.resize {
+    width: 100px;
+    height: 100px;
+}
+
+.orange {
+    font-family: 'Lobster', cursive;
+    color: #FFBF00;
+}
